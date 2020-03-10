@@ -90,7 +90,7 @@ Baoai front and back end separate frame structure, including front-end items and
 
 + API
 
-  + After running the backend project in development mode, it can be loaded, such as http://localhost:8000/api, or download http://www.baoai.co/api/swagger.json, and use swagger UI to load.
+  + After running the backend project in development mode, it can be loaded, such as http://localhost:8000/api, and use swagger UI to load.
 
 
 + Module expansion

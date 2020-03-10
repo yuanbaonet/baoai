@@ -60,7 +60,7 @@ BaoAI前后端分离框构，包含有前端项目和后端项目
     + [BaoAI 后端开发手册](http://www.baoai.co/web/book?id=48) http://www.baoai.co/web/book?id=48
 
 + API
-    + 以开发模式运行后端项目后，即可加载，如：http://localhost:8000/api, 也可下载 http://www.baoai.co/api/swagger.json ，使用Swagger UI加载。
+    + 以开发模式运行后端项目后，即可加载，如：http://localhost:8000/api，使用Swagger UI加载。
 
 + 模块扩展
     + [模块扩展](http://www.baoai.co/web/book?id=88) 
