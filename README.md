@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="http://www.baoai.co/" target="_blank">
-    <img style="vertical-align: top;" src="./assets/img/baoai/logo.png" alt="BaoAI logo" height="50px">
+    <img style="vertical-align: top;" src="assets/img/baoai/logo.png" alt="BaoAI logo" height="50px">
 </a>
 <br>
 <br>
